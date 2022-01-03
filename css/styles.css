@@ -1,0 +1,11 @@
+
+.bg-entrada{
+	height: 100%;
+	background-image: url(../media/img/bg-entrada.png);
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.altura{
+	height: 500px;
+}
